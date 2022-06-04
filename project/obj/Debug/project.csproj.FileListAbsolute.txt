@@ -1,0 +1,11 @@
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\project.exe.config
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\project.exe
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\project.pdb
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.Form1.resources
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.exe
+C:\Users\halaf\Desktop\C# project\project\project\obj\Debug\project.pdb
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\System.Data.SQLite.dll
+C:\Users\halaf\Desktop\C# project\project\project\bin\Debug\System.Data.SQLite.xml
